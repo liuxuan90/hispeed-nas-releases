@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "version": "0.1.2-beta.11",
+    "url": "https://github.com/liuxuan90/hispeed-nas-releases/releases/download/v0.1.2-beta.11/Hispeed%20NAS%20Admin_0.1.2-beta.11_x64-setup.exe",
+    "notes": "Hispeed NAS 0.1.2-beta.11"
+  },
+  "viewer": {
+    "version": "0.1.2-beta.11",
+    "url": "https://github.com/liuxuan90/hispeed-nas-releases/releases/download/v0.1.2-beta.11/Hispeed%20NAS%20Viewer_0.1.2-beta.11_x64-setup.exe",
+    "notes": "Hispeed NAS 0.1.2-beta.11"
+  }
+}
